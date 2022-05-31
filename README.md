@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Gerald Odoh" />
+[![Gerald Odoh](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1>Heading level 1</h1>
 
