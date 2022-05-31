@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40GeraldOdoh)](https://twitter.com/xanta_codes)
 
-- 🔭 I’m currently working on <a href="https://www.udemy.com/course/blockchain-developer/learn/lecture/24673866#announcements">Bockchain</a>
+- 🔭 I’m currently working on <a href="https://www.udemy.com/course/blockchain-developer/learn/lecture/24673866#announcements">Blockchain</a>
 
 - 🌱 I’m currently learning Ethereum Blockchain Developer Bootcamp With Solidity (2022), AdonisJs and AWS
 
