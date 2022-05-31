@@ -4,13 +4,20 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40GeraldOdoh)](https://twitter.com/xanta_codes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on <a href="https://www.udemy.com/course/blockchain-developer/learn/lecture/24673866#announcements">Bockchain</a>
+
+- 🌱 I’m currently learning Ethereum Blockchain Developer Bootcamp With Solidity (2022), AdonisJs and AWS
+
+- 👯 Seeking intership roles in Ethereum Blockchain | Polygon
+
+- 🤔 I’m looking for help with Intenships that will boost my knowlegde on Blockchain
+
+- 💬 Ask me about PHP, Laravel, Javascript and Anything
+
+- 📫 How to reach me: <a href="https://contactxanta.com">https://contactxanta.com</a>
+
+- ⚡ Fun fact I ask questions a lot if I'm comfortable around you. 😄
 
 ![Gerald Odoh](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+
+# CONNECT WITH ME
