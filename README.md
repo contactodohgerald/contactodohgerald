@@ -19,6 +19,6 @@
 
 <div style="width: 50%">
   
-  ![Gerald Odoh]([https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg))
+  ![Gerald Odoh](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
   
 </div>
