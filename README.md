@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact I ask questions a lot if I'm comfortable around you. 😄
 
-[![Slack](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{contactodohgerald}1212%2Fhit-counter)]()  
+[![Slack](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcontactodohgerald1212%2Fhit-counter)]()  
 
 ![Gerald Odoh](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
 
