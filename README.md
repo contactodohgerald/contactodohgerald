@@ -2,11 +2,8 @@
 
 <h1 align="center">  Hi 👋, I'm Gerald Odoh </p>
 
-### Hi there 👋
-
-**contactodohgerald/contactodohgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Follow @xanta_codes
+[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/odoh-gerald-3ab5b3102)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
