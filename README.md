@@ -2,7 +2,7 @@
 
 <h1 align="center">  Hi 👋, I'm Gerald Odoh </h1>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/xanta_codes)
+[![Twitter]([https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white))](https://twitter.com/xanta_codes)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
