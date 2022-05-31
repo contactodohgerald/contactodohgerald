@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Gerald Odoh" />
 
 <h1>Heading level 1</h1>
 
