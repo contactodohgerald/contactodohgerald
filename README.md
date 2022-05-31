@@ -1,6 +1,8 @@
 ![Gerald Odoh](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+<p align="center">
 # Hi 👋, I'm Gerald Odoh
+</p>
 
 ### Hi there 👋
 
