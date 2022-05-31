@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40GeraldOdoh)](https://twitter.com/xanta_codes)
 
 <div style="width: 50%">
+  
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...
@@ -13,8 +14,11 @@
   - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
+  
 </div>
 
 <div style="width: 50%">
+  
   ![Gerald Odoh]([https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg))
+  
 </div>
