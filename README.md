@@ -1,6 +1,6 @@
 ![Gerald Odoh](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1>Heading level 1</h1>
+# Hi 👋, I'm Gerald Odoh
 
 ### Hi there 👋
 
