@@ -3,7 +3,7 @@
 <h1 align="center">  Hi 👋, I'm Gerald Odoh </p>
 
 ## Follow @xanta_codes
-[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/odoh-gerald-3ab5b3102)
+[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](odoh-gerald-3ab5b3102)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
