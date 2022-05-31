@@ -6,13 +6,7 @@
 
  <div style="width: 100%">
 
-  <div style="width: 50%">
-
     ![Gerald Odoh](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
-
-  </div>
-
-  <div style="width: 50%">
 
     - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
@@ -22,7 +16,5 @@
     - 📫 How to reach me: ...
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...
-
-  </div>
 
 </div>
