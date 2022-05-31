@@ -1,9 +1,8 @@
 ![Gerald Odoh](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">  Hi 👋, I'm Gerald Odoh </p>
+<h1 align="center">  Hi 👋, I'm Gerald Odoh </h1>
 
-## Follow @xanta_codes
-[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](odoh-gerald-3ab5b3102)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/xanta_codes)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
